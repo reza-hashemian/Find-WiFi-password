@@ -3,6 +3,7 @@
 ***
 ### requirements:
 * python 3.9 or higher
+### How to use?
 * open terminal and change working directory to directory that script exist
 * run `python script.py`
 ***
